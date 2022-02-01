@@ -1,0 +1,30 @@
+.questionCard {
+  background-color: #f15bb5;
+  border: 1px solid #fee440;
+  width: 30%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  
+}
+.choiceCard{
+  display: flex;
+  flex-direction: column;
+
+}
+.topChoices{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.bottomChoices{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.question{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

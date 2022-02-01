@@ -1,0 +1,23 @@
+
+.topbar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9b5de5;
+  flex-direction: column;
+}
+
+.topbarBottom{
+  background-color: #00bbf9;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  color: white;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.topbarLogo {
+  height: 100px;
+  border-radius: 50%;
+}
